@@ -37,7 +37,7 @@ header {
 .logo {
     height: 5.25rem;
     width: 16.125rem;
-    background: url(/img/logo.PNG) center no-repeat;
+    background: url(/Html-Css/Projeto4/img/logo.PNG) center no-repeat;
     background-size: contain;
 }
 .logo:hover {
@@ -92,7 +92,7 @@ nav li a:hover::before {
     margin-top: 89px;
     width: 100%;
     height: 500px;
-    background: url(/img/fundo.1.jpg) center no-repeat;
+    background: url(/Html-Css/Projeto4/img/fundo.1.jpg) center no-repeat;
     background-size: cover;
     position: relative;
 }
@@ -239,9 +239,45 @@ nav li a:hover::before {
     margin-top: 2rem;
     padding: 5rem 0;
 }*/
-.parag{
+.parag {
     text-align: center;
     margin-top: 1rem;
     font-size: 1.25rem;
     font-weight: 500;
 }
+/*.heading-alt {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--gold500);
+    line-height: 102%;
+    letter-spacing: -1px;
+}*/
+/*.dark-background {
+    color: #fff;
+}*/
+/*.dark-flex-tile {
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 3rem;
+}*/
+/*.tile-dark {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-color: #0e0e0e;
+    padding: 2rem;
+    border-radius: 4px;
+    text-align: center;
+    position: relative;
+}*/
+
+
+
+
+
